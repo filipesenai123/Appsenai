@@ -1,2 +1,2 @@
-# omnistack-mobile
-Projeto em React Native da semana omnistack
+# app senai-mobile
+Projeto em React Native
